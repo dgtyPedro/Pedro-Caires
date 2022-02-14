@@ -1,24 +1,22 @@
-p {
-color: #F5F5F5;
-}
+body, html{
+    margin: 0;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    background-color: #060606;
+    color: #F5F5F5;
 
-.website {
-height: 100vh;
-background-color: #060606;
-color: #F5F5F5;
-padding: 2%;
+    overflow-x: none;
 }
 
 .container {
-margin: auto;
-width: 70vw;
+    margin: auto;
 }
 
 .container #navbar {
 display: -webkit-box;
 display: -ms-flexbox;
 display: flex;
-font-size: 20px;
+font-size: 1.5em;
 font-weight: bold;
 }
 
@@ -33,18 +31,55 @@ text-align: end;
 }
 
 a {
-margin-inline: 1vw;
-text-decoration: none;
-color: #F5F5F5;
+    margin-inline: 1vw;
+    text-decoration: none;
+    color: #F5F5F5;
 }
 
 a:hover {
 color: #EF6A32;
 }
 
-h2 {
-font-size: 50px;
+h1{
+    font-size: 3em;
+    text-align: justify;
+
 }
+
+h2 {
+    font-size: 2.5em;
+    text-align: justify;
+
+}
+
+h3 {
+    font-size: 2em;
+    text-align: justify;
+}
+
+h4 {
+    font-size: 1em;
+    text-align: justify;
+}
+
+p{
+    font-size: 1.25em;
+    text-align: justify;
+
+}
+
+hr{
+    width: 100%;
+}
+
+
+
+/* STYLE HR  */
+/* STYLE HR  */
+/* STYLE HR  */
+/* STYLE HR  */
+/* STYLE HR  */
+/* STYLE HR  */
 
 @-webkit-keyframes hrcolor {
 0% {

@@ -16,7 +16,7 @@
   </head>
   <body>
 
-<div class="website" style="display: block;">
+
   <div class="container">
     <div id="navbar">
       <div class="col navitems1">
@@ -31,18 +31,17 @@
     <hr class="customhr"/>
     <h1 class="mb-5">Home</h1>
 
-
     @foreach ($contents as $c)
     <a href="{{$posts[$x]}}" style="margin: 0">
-        <h5>{{$c[0]}}</h5>
-        <h6>{{$c[1]}} [...]</h6>
+        <h3>{{$c[0]}}</h3>
+        <h4>{{mb_strimwidth($c[1], 0, 90, " [...]")}}</h4>
     </a>
     <hr/>
     <?php $x++;?>
     @endforeach
 
   </div>
-</div>
+
 
 
 
