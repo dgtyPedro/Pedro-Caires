@@ -34,8 +34,8 @@
           </div>
         </div>
       </nav>
-
-    <div class="navdesktop" id="navbar">
+      <div class="navdesktop">
+    <div  id="navbar">
       <div class="col navitems1">
         <a href="../">Pedro Caires</a>
       </div>
@@ -45,6 +45,7 @@
         <a href="https://github.com/dgtyPedro">GitHub</a>
       </div>
     </div>
+  </div>
     <hr class="customhr"/>
     <h1 class="mb-5">Home</h1>
 
