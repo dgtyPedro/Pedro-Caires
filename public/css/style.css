@@ -36,10 +36,8 @@ body, html{
 .offcanvas{
     background-color: #060606f5;
     color: white;
-    width: 35%;
+    width: fit-content;
 }
-
-
 
 .container #navbar {
 display: -webkit-box;

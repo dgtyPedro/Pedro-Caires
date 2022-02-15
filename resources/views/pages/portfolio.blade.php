@@ -21,7 +21,7 @@
 
     <nav class="navbar navbar-dark navmobile ">
         <div class="container-fluid">
-          <a style="font-weight: bolder; font-size: 2em" href="../">Pedro Caires</a>
+          <a style="font-weight: bolder; font-size: 2em; flex:1" href="../">Pedro Caires</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
             <span class="navbar-toggler-icon"></span>
           </button>
