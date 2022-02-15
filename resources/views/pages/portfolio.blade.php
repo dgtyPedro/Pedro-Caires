@@ -1,3 +1,4 @@
+<?php $x = 0; ?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -15,26 +16,26 @@
   </head>
   <body>
 
-<div class="website" style="display: block;">
+
   <div class="container">
 
     <nav class="navbar navbar-dark navmobile ">
-      <div class="container-fluid">
-        <a style="font-weight: bolder; font-size: 2em" href="../">Pedro Caires</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" style="text-align: end">
-          <div class="offcanvas-body" style="text-align: end">
-            <a href="./Sobre" style="font-size: 1.8em; font-weight: bolder;">Sobre </a><br/>
-            <a href="./Portfólio" style="font-size: 1.8em; font-weight: bolder;">Portfólio</a><br/>
-            <a href="https://github.com/dgtyPedro" style="font-size: 1.8em; font-weight: bolder;">GitHub</a><br/>
+        <div class="container-fluid">
+          <a style="font-weight: bolder; font-size: 2em" href="../">Pedro Caires</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" style="text-align: end">
+            <div class="offcanvas-body" style="text-align: end">
+              <a href="./Sobre" style="font-size: 1.8em; font-weight: bolder;">Sobre </a><br/>
+              <a href="./Portfólio" style="font-size: 1.8em; font-weight: bolder;">Portfólio</a><br/>
+              <a href="https://github.com/dgtyPedro" style="font-size: 1.8em; font-weight: bolder;">GitHub</a><br/>
+            </div>
           </div>
         </div>
-      </div>
-    </nav>
+      </nav>
 
-    <div class="navdesktop" id="navbar ">
+    <div class="navdesktop" id="navbar">
       <div class="col navitems1">
         <a href="../">Pedro Caires</a>
       </div>
@@ -45,13 +46,12 @@
       </div>
     </div>
     <hr class="customhr"/>
+    <h1 class="mb-5">Home</h1>
 
-    <h1 class="mb-5">@yield('title')</h1>
-
-    <p>@yield('content')</p>
+   
 
   </div>
-</div>
+
 
 
 

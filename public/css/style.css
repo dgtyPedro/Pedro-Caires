@@ -12,12 +12,44 @@ body, html{
     margin: auto;
 }
 
+@media (max-width: 801px)
+{
+  .navdesktop
+   {
+    display: none;
+   }
+
+   
+}
+
+@media (min-width: 801px)
+{
+  
+    .navmobile
+    {
+    display: none;
+    }
+
+   
+}
+
+.offcanvas{
+    background-color: #060606f5;
+    color: white;
+    width: 35%;
+}
+
+
+
 .container #navbar {
 display: -webkit-box;
 display: -ms-flexbox;
 display: flex;
 font-size: 1.5em;
 font-weight: bold;
+justify-content: center;
+align-items: center;
+padding-top: 1.5vh;
 }
 
 .container #navbar > div {

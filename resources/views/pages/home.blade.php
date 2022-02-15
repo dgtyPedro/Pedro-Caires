@@ -11,29 +11,49 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
-    
     <title>Hello, world!</title>
   </head>
   <body>
 
 
   <div class="container">
+
+    
+    <nav class="navbar navbar-dark navmobile ">
+      <div class="container-fluid">
+        <a style="font-weight: bolder; font-size: 2em" href="../">Pedro Caires</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" style="text-align: end">
+          <div class="offcanvas-body" style="text-align: end">
+            <a href="./Sobre" style="font-size: 1.8em; font-weight: bolder;">Sobre </a><br/>
+            <a href="./Portfólio" style="font-size: 1.8em; font-weight: bolder;">Portfólio</a><br/>
+            <a href="https://github.com/dgtyPedro" style="font-size: 1.8em; font-weight: bolder;">GitHub</a><br/>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+
+  <div class="navdesktop">
     <div id="navbar">
       <div class="col navitems1">
         <a href="../">Pedro Caires</a>
       </div>
       <div class="col navitems2">
         <a href="">Sobre</a>
-        <a href="">Portfólio</a>
+        <a href="./Portfólio">Portfólio</a>
         <a href="https://github.com/dgtyPedro">GitHub</a>
       </div>
     </div>
+  </div>
     <hr class="customhr"/>
     <h1 class="mb-5">Home</h1>
 
     @foreach ($contents as $c)
     <a href="{{$posts[$x]}}" style="margin: 0">
-        <h3>{{$c[0]}}</h3>
+        <h3 style="text-align: start">{{$c[0]}}</h3>
         <h4>{{mb_strimwidth($c[1], 0, 90, " [...]")}}</h4>
     </a>
     <hr/>

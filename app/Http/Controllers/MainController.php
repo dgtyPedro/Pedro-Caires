@@ -44,4 +44,8 @@ class MainController extends Controller
 
     }
 
+    public function portfolio(){
+        echo view("pages.portfolio");
+    }
+
 }
