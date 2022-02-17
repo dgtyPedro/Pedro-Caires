@@ -11,7 +11,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
-    <title>Hello, world!</title>
+    <link rel="shortcut icon" type="image/jpg" href="{{asset('img/icon.jpg')}}"/>
+
+    <title>Pedro Caires</title>
   </head>
   <body>
 
@@ -39,7 +41,8 @@
   <div class="navdesktop">
     <div id="navbar">
       <div class="col navitems1">
-        <a href="../">Pedro Caires</a>
+        
+        <a href="../"> <img src="{{asset('img/icon.jpg')}}" style="width: 3vw; border-radius: 100px; margin-right:1vw"/> Pedro Caires</a>
       </div>
       <div class="col navitems2">
         <a href="./Sobre">Sobre</a>
