@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" type="image/jpg" href="{{asset('img/icon.jpg')}}"/>
+    <link rel="shortcut icon" type="image/jpg" href="{{secure_asset('img/icon.jpg')}}"/>
 
     <title>Pedro Caires</title>
   </head>
