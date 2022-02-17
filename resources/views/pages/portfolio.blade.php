@@ -42,7 +42,7 @@
         <a href="../"> <img src="{{asset('img/icon.jpg')}}" style="width: 3vw; border-radius: 100px; margin-right:1vw"/> Pedro Caires</a>
       </div>
       <div class="col navitems2">
-        <a href="">Sobre</a>
+        <a href="./Sobre">Sobre</a>
         <a href="./Portfólio">Portfólio</a>
         <a href="https://github.com/dgtyPedro">GitHub</a>
       </div>
