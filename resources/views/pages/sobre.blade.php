@@ -40,7 +40,7 @@
         <a href="../">Pedro Caires</a>
       </div>
       <div class="col navitems2">
-        <a href="">Sobre</a>
+        <a href="./Sobre">Sobre</a>
         <a href="./Portfólio">Portfólio</a>
         <a href="https://github.com/dgtyPedro">GitHub</a>
       </div>
