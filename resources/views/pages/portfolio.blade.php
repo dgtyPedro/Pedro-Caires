@@ -19,7 +19,7 @@
 
   <div class="container">
 
-    <nav class="navbar navbar-dark navmobile ">
+    <nav class="navbar navbar-light navmobile ">
         <div class="container-fluid">
           <a style="font-weight: bolder; font-size: 2em; flex:1" href="../">Pedro Caires</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
@@ -47,7 +47,8 @@
     </div>
   </div>
     <hr class="customhr"/>
-    <h1 class="mb-5">Home</h1>
+    <h1 class="mb-5">Portfólio</h1>
+    <h2>Em construção...</h2>
 
    
 

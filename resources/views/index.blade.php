@@ -15,13 +15,12 @@
   </head>
   <body>
 
-<div class="website" style="display: block;">
   <div class="container">
 
-    <nav class="navbar navbar-dark navmobile ">
+    <nav class="navbar navbar-light navmobile ">
       <div class="container-fluid">
-        <a class="Title" style="font-weight: bolder; font-size: 2em; flex:1" href="../">Pedro Caires</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+        <a class="title" style="font-weight: bolder; font-size: 2em; flex:1; line-height:1" href="../">Pedro Caires</a>
+        <button  class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" style="text-align: end">
@@ -34,21 +33,24 @@
       </div>
     </nav>
 
-    <div class="navdesktop" id="navbar ">
+
+  <div class="navdesktop">
+    <div id="navbar">
       <div class="col navitems1">
         <a href="../">Pedro Caires</a>
       </div>
       <div class="col navitems2">
-        <a href="">Sobre</a>
+        <a href="./Sobre">Sobre</a>
         <a href="./Portfólio">Portfólio</a>
         <a href="https://github.com/dgtyPedro">GitHub</a>
       </div>
     </div>
+  </div>
     <hr class="customhr"/>
 
-    <h1 class="mb-5">@yield('title')</h1>
+    <h1 class="mb-5 text-center">@yield('title')</h1>
 
-    <p>@yield('content')</p>
+    <p class="text-left">@yield('content')</p>
 
   </div>
 </div>
