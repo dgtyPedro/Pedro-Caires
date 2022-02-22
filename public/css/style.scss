@@ -34,6 +34,15 @@ body, html{
     display: none;
    }
 
+   body, html{
+    margin: 0;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    background-color: $third;
+    color: $text;
+    height: 100%;
+    overflow-x: none;
+}
    
 }
 
