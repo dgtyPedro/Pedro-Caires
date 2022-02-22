@@ -36,8 +36,8 @@ class MainController extends Controller
 
         $data=[
             'quantity' => count($posts),
-            'posts' => $posts,
-            'contents' => $contents,
+            'posts' => array_reverse($posts),
+            'contents' => array_reverse($contents),
         ];
 
         echo view("pages.home", $data);
