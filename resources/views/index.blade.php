@@ -12,6 +12,15 @@
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/jpg" href="{{secure_asset('img/icon.jpg')}}"/>
     
+    <meta property=’og:title’ content='TITLE OF YOUR WEBSITE'/>
+    <meta property=’og:image’ content='https://bbn1.bbnradio.org/portuguese/wp-content/uploads/sites/6/2016/02/insert-1200-x-627-pixel-image-here.jpg'/>
+    <meta property=’og:description’ content='DESCRIPTION OF YOUR SITE'/>
+    <meta property=’og:url’ content='https://pedro-caires.herokuapp.com'/>
+    <meta property='og:image:width' content='1200' />
+    <meta property='og:image:height' content='627' />
+
+    <meta property="og:type" content='website'/>
+    
     <title>Pedro Caires</title>
   </head>
   <body>
