@@ -77,6 +77,25 @@ body, html {
   text-align: end;
 }
 
+.portcols {
+  margin: 1vw;
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+}
+
+@media (max-width: 1000px) {
+  .portcols {
+    -webkit-box-flex: 1;
+        -ms-flex: 1 0 100%;
+            flex: 1 0 100%;
+  }
+}
+
+.portcols > h3 {
+  text-align: center !important;
+}
+
 a {
   margin-inline: 1vw;
   text-decoration: none;

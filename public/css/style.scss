@@ -88,6 +88,30 @@ padding-top: 1.5vh;
 text-align: end;
 }
 
+.portcols{
+    // border: $primary 2px solid;
+    margin: 1vw;
+    height: max-content;
+    
+}
+
+@media (max-width: 1000px)
+{
+    .portcols{
+        // border: $primary 2px solid;
+        flex: 1 0 100%;
+    }
+}
+
+
+
+.portcols > h3{
+    text-align: center!important;
+
+}
+
+
+
 a {
     margin-inline: 1vw;
     text-decoration: none;
