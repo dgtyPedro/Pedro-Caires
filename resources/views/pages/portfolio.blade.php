@@ -8,7 +8,7 @@ Portfólio
 <div class="col portcols">
   <h3>Mother's Playlist</h3>
   <p>Meu projeto pessoal favorito. Um gerenciador elegante de playlists no Spotify feito em PHP com amor.</p>
-  <p><a href="" style="text-align: center; color: #03C383">Veja o Repositório aqui</a></p>
+  <p style="text-align: center"><a href="" style="text-align: center; color: #03C383">Veja o Repositório aqui</a></p>
 </div>
 <div class="col portcols">
   <h3>I'm Labs Scrum</h3>
@@ -29,7 +29,7 @@ Portfólio
   <div class="col portcols">
     <h3>Ada Wendy</h3>
     <p>SPA que fiz para apresentação de um aplicativo. </p>
-    <p><a href="" style="text-align: center; bottom: 0; color: #03C383">Veja o Repositório aqui</a></p>
+    <p style="text-align: center"><a href="" style="text-align: center; bottom: 0; color: #03C383">Veja o Repositório aqui</a></p>
   </div>
 
   <div class="col portcols">
@@ -41,9 +41,10 @@ Portfólio
   <div class="col portcols">
     <h3>Rep. de Estudos</h3>
     <p> Repositórios de Estudos que possuo para várias técnologias.
-    <p><a href="https://github.com/dgtyPedro/EstudosLaravel" style="text-align: center; margin:0; color: #03C383">EstudosLaravel</a></p>
-    <p><a href="https://github.com/dgtyPedro/EstudosCI" style="text-align: center; margin: 0; color: #03C383">EstudosCodeIgniter4</a></p>
-    <p><a href="https://github.com/dgtyPedro/EstudosJS" style="text-align: center; margin: 0; color: #03C383">EstudosJavascript</a></p>
+    
+    <p style="text-align: center; line-height: 0px"><a href="https://github.com/dgtyPedro/EstudosLaravel" style="text-align: center; margin:0; color: #03C383">EstudosLaravel</a></p>
+    <p style="text-align: center; line-height: 0px"><a href="https://github.com/dgtyPedro/EstudosCI" style="text-align: center; margin: 0; color: #03C383">EstudosCodeIgniter4</a></p>
+    <p style="text-align: center; line-height: 0px"><a href="https://github.com/dgtyPedro/EstudosJS" style="text-align: center; margin: 0; color: #03C383">EstudosJavascript</a></p>
   </div>
   
   </div>
