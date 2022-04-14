@@ -55,7 +55,7 @@
       tempo passando decidi não me prender em linguagens e tecnologias, 
       já estudei HTML, CSS, PHP, Javascript, MySQL, Java, Python e até mesmo 
       GAS (Google Apps Script) e juntando todas essas linguagens a coisa que mais 
-      aprendi foi o "aprender"! Ser um bom programador é saber resolver qualquer 
+      aprendi foi o "aprender"!</p> <p>Ser um bom programador é saber resolver qualquer 
       problema com algumas linhas de código. Como dizia o Tio Ben "Com grandes scripts 
       vêm grandes responsabilidades", ou algo do tipo.</p>
   </div>
