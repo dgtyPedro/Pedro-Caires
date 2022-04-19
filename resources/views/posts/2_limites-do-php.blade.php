@@ -26,5 +26,16 @@ enquanto o PHP ainda precisa do Javascript para fazer sistemas fluídos sem a ne
 pode fazer erros pequenos se tornarem uma tortura na hora de fazer debugging, o Typescript é uma tech que na minha opinião acha o equilíbrio perfeito disso, 
 sempre apita problemas de tipagem e estrutura mas deixa o desenvolvimento acontecer.</p>
 
+<h2>Os Dev's</h2>
+<p>Esse provavelmente é o maior problema do PHP, eu como desenvolvedor PHP sei bem disso. A linguagem mima o PHP dev demais, tudo 
+    é muito fácil de se fazer e o problema está ai, tudo é relativamente fácil de fazer, o problema que a forma fácil nem sempre é a melhor 
+    e isso torna o PHP uma linguagem com problemas de segurança, a verdade é que não é ela que é indefesa contra SQL injection e outras coisas, e sim 
+    seus devs que optam por não adicionar. 
+</p>
+
+<img title="como o PHP dev se vê" alt="como o PHP dev se vê" src="https://media.discordapp.net/attachments/845037319613972497/961040226975887400/unknown.png?width=1150&height=468" width="100%"/>
+
+<br/>
+<br/>
 <br/>
 @endsection
