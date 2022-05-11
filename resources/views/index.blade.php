@@ -14,8 +14,8 @@
     
     <meta property='og:image' content='https://bbn1.bbnradio.org/portuguese/wp-content/uploads/sites/6/2016/02/insert-1200-x-627-pixel-image-here.jpg'/>
 
-
     <meta property="og:type" content='website'/>
+    <meta property="og:title" content="@yield('title')"/>
     
     <title>Pedro Caires</title>
   </head>
