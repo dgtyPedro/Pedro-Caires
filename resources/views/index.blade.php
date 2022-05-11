@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/jpg" href="{{secure_asset('img/icon.jpg')}}"/>
     
-    <meta property="og:image" content='https://jangada.ag/wp-content/uploads/2017/04/jangada-v2-baby-do-brasil-7-capa-quadrada.jpg'/>
+    <meta property="og:image" content='https://online.jwu.edu/sites/default/files/styles/article_feature_page/public/field/image/BS%20Computer%20Science%20Degree%20A%20Closer%20Look.jpg?itok=ljcfRgAe'/>
 
     <meta property="og:type" content='website'/>
     <meta property="og:title" content="@yield('title')"/>
