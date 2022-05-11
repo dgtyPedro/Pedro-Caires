@@ -1,9 +1,5 @@
 @extends('index')
 
-@section('image')
-https://media-exp1.licdn.com/dms/image/sync/C4D27AQF1SVAMqBfC7Q/articleshare-shrink_800/0/1652301258413?e=1652389200&v=beta&t=wdNlK2uRW0jcz6d0ZcKIYjaBC8byhJ_MJFpcZQR-kDw
-@endsection
-
 @section('title')
 O que eu não gosto tanto do PHP
 @endsection
@@ -42,4 +38,8 @@ sempre apita problemas de tipagem e estrutura mas deixa o desenvolvimento aconte
 <br/>
 <br/>
 <br/>
+@endsection
+
+@section('image')
+https://media-exp1.licdn.com/dms/image/sync/C4D27AQF1SVAMqBfC7Q/articleshare-shrink_800/0/1652301258413?e=1652389200&v=beta&t=wdNlK2uRW0jcz6d0ZcKIYjaBC8byhJ_MJFpcZQR-kDw
 @endsection

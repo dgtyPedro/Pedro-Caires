@@ -1,9 +1,5 @@
 @extends('index')
 
-@section('image')
-https://tm.ibxk.com.br/2021/08/25/25005108362009.jpg
-@endsection
-
 @section('title')
 How did I do a blog on Laravel (without any database) [EN-US]
 @endsection
@@ -83,4 +79,8 @@ more this blog is open source and you can see the files <a style="margin:0; text
 <br/>
 <br/>
 <br/>
+@endsection
+
+@section('image')
+https://media-exp1.licdn.com/dms/image/sync/C4D27AQF1SVAMqBfC7Q/articleshare-shrink_800/0/1652301258413?e=1652389200&v=beta&t=wdNlK2uRW0jcz6d0ZcKIYjaBC8byhJ_MJFpcZQR-kDw
 @endsection

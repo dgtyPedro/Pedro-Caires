@@ -11,20 +11,24 @@ Portfólio
 <div class="row">
 
 <div class="col portcols">
-  <h3>Mother's Playlist</h3>
+  <h3>Dumpi-fy</h3>
   <p>Meu projeto pessoal favorito. Um gerenciador elegante de playlists no Spotify feito em PHP com amor.</p>
-  <p style="text-align: center"><a href="" style="text-align: center; color: #03C383">Veja o Repositório aqui</a></p>
+  <p style="text-align: center"><a href="https://github.com/dgtyPedro/dumpi-fy" style="text-align: center; color: #03C383">Veja o Repositório aqui</a></p>
+  <p style="text-align: center"><a href="https://dumpi-fy.herokuapp.com" style="text-align: center; color: #03C383">Veja o Site aqui</a></p>
+
 </div>
 <div class="col portcols">
   <h3>I'm Labs Scrum</h3>
   <p>Aplicação de Daily Scrum's que eu criei para a empresa I'm Labs. Possuí painel administrador e calendário inteligente.</p>
-  <p style="text-align: center; color:#ED0345">Repositório Privado</p>
+  <p style="text-align: center; color:#ED0345">Projeto Interno</p>
 </div>
 <div class="col portcols">
   <h3>GeekHorror</h3>
   <p>Aplicação Web desenvolvida por mim e pelo<a href="https://twitter.com/vit0rrk">@@vit0rrk,</a> consiste em um site de quizz sobre
   survival horror. </p>
   <p style="text-align: center; bottom: 0; color:#A12A5E">Repositório Privado</p>
+  <p style="text-align: center"><a href="https://geekhorror.com.br" style="text-align: center; bottom: 0; color: #03C383">Veja o Site aqui</a></p>
+
 </div>
 
 </div>
@@ -32,15 +36,16 @@ Portfólio
 <div class="row">
   
   <div class="col portcols">
-    <h3>Ada Wendy</h3>
-    <p>SPA que fiz para apresentação de um aplicativo. </p>
-    <p style="text-align: center"><a href="" style="text-align: center; bottom: 0; color: #03C383">Veja o Repositório aqui</a></p>
-  </div>
+    <h3>Lotopower</h3>
+    <p>Sistemas de simulações lotéricas feita 100% em Laravel 100% por mim. </p>
+    <p style="text-align: center; bottom: 0; color:#A12A5E">Repositório Privado</p>
+    <p style="text-align: center"><a href="https://lotopower.com.br" style="text-align: center; bottom: 0; color: #03C383">Veja o Site aqui</a></p>
+    </div>
 
   <div class="col portcols">
     <h3>ZapAlerta</h3>
     <p>SPA que fiz para apresentação de um aplicativo. </p>
-    <p style="text-align: center; bottom: 0; color:#FBBF45">Repositório Privado</p>
+    <p style="text-align: center; bottom: 0; color:#FBBF45">Projeto Interno</p>
   </div>
 
   <div class="col portcols">

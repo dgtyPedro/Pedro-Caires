@@ -1,12 +1,9 @@
 @extends('index')
 
-@section('image')
-https://uniqueemployment.com/wp-content/uploads/2016/11/Temp_to_hire_worker.jpeg
-@endsection
-
 @section('title')
 What I learned hiring other developers [EN-US]
 @endsection
+
 @section('content')
 I work at a newborn startup, and only people who have worked at a newborn startup really know what it's like it. You basically become a fullstack employee, filling in for designers, tech leads, and even doing HR. I have already worked on hiring 3 other developers and learned a lot along the way. Here is what I learned.
 
@@ -25,4 +22,8 @@ I work at a newborn startup, and only people who have worked at a newborn startu
     knowing that you need to learn new things.
 </p>
 <br/>
+@endsection
+
+@section('image')
+https://uniqueemployment.com/wp-content/uploads/2016/11/Temp_to_hire_worker.jpeg
 @endsection
