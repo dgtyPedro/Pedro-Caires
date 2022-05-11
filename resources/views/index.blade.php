@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/jpg" href="{{secure_asset('img/icon.jpg')}}"/>
     
-    <meta property='og:image' content='https://bbn1.bbnradio.org/portuguese/wp-content/uploads/sites/6/2016/02/insert-1200-x-627-pixel-image-here.jpg'/>
+    <meta property="og:image" content='https://jangada.ag/wp-content/uploads/2017/04/jangada-v2-baby-do-brasil-7-capa-quadrada.jpg'/>
 
     <meta property="og:type" content='website'/>
     <meta property="og:title" content="@yield('title')"/>
