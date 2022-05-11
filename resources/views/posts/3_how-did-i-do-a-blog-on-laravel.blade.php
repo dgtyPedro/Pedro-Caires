@@ -3,7 +3,7 @@
 How did I do a blog on Laravel (without any database) [EN-US]
 @endsection
 @section('content')
-<p >The blog that you are looking into right now is entirely made on Laravel, 
+<p>The blog that you are looking into right now is entirely made on Laravel, 
     and he does not use any type of database (SQL or NoSQL). 
     Today I am going to show how I achieved this and how I create posts here.
 </p>
