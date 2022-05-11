@@ -1,4 +1,9 @@
 @extends('index')
+
+@section('image')
+https://tm.ibxk.com.br/2021/08/25/25005108362009.jpg
+@endsection
+
 @section('title')
 How did I do a blog on Laravel (without any database) [EN-US]
 @endsection

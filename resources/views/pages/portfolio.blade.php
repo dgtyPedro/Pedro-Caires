@@ -1,4 +1,9 @@
 @extends('index')
+
+@section('image')
+https://static.vecteezy.com/system/resources/previews/003/334/919/large_2x/desktop-source-code-and-wallpaper-by-coding-and-programming-free-photo.jpg
+@endsection
+
 @section('title')
 Portfólio
 @endsection

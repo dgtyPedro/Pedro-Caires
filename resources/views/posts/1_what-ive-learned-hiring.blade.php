@@ -1,4 +1,9 @@
 @extends('index')
+
+@section('image')
+https://uniqueemployment.com/wp-content/uploads/2016/11/Temp_to_hire_worker.jpeg
+@endsection
+
 @section('title')
 What I learned hiring other developers [EN-US]
 @endsection
