@@ -1,11 +1,14 @@
 @extends('index')
 
 @section('title')
-What I learned hiring other developers [EN-US]
+What I learned hiring other developers
 @endsection
 
 @section('content')
-I work at a newborn startup, and only people who have worked at a newborn startup really know what it's like it. You basically become a fullstack employee, filling in for designers, tech leads, and even doing HR. I have already worked on hiring 3 other developers and learned a lot along the way. Here is what I learned.
+<p>I work at a newborn startup, and only people who have worked at a newborn startup really 
+    know what it's like it. You basically become a fullstack employee, filling in 
+    for designers, tech leads, and even doing HR. I have already worked on 
+    hiring 3 other developers and learned a lot along the way. Here is what I learned.</p>
 
 <h3>GitHub is one of the most important tool that a Developer can use</h3>
 <p>In the early days, most developers ignore using GitHub. They think that just because they do not have anything "cool" to show, they do not have to show anything, but that's completely wrong. When I was shortlisting candidates, I would often choose a developer who had a populated GitHub but no previous experience over a developer with previous experience but no content on their GitHub. When I see someone with a well- organized, well-documented GitHub, I can tell within seconds what the person can and cannot do. If a candidate does not have a good GitHub, I can not assess the person's skills. Of course, people lie and GitHub/GitLab cannot serve as a proof of skills, but it can be a good indicator.

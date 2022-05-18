@@ -1,12 +1,12 @@
 @extends('index')
 
 @section('title')
-How did I do a blog on Laravel (without any database) [EN-US]
+How did I do a blog on Laravel (without any database)
 @endsection
 @section('content')
-The blog that you are looking into right now is entirely made on Laravel, 
+<p>The blog that you are looking into right now is entirely made on Laravel, 
     and he does not use any type of database (SQL or NoSQL). 
-    Today I am going to show how I achieved this and how I create posts here.
+    Today I am going to show how I achieved this and how I create posts here.</p>
 <h2>Is it the home feed auto-generated?</h2>
 <p style="margin-bottom: 0">Yes, it is. I achieved this by creating a posts folder in the views folder of Laravel, inside that I create the posts on a .blade.php file 
     that extends the main layout of the website. After creating the homepage controller search for files in this folder and reads them, 
@@ -49,7 +49,7 @@ The blog that you are looking into right now is entirely made on Laravel,
 </blockquote>
 
 <h2>Writing and storing the post</h2>
-<p style="margin-bottom: 0">This method is not ideal, but creating a fast blog without any sort of database is the best one. To create a new post 
+<p style="margin-bottom: 0">This method is not ideal, but for creating a fast blog without any sort of database is the best one. To create a new post 
     we make a file inside de views/posts directory named X_the-title-of-the-post where X would be the number of the post, after that, 
     we use this really simple template: 
 </p>

@@ -16,9 +16,9 @@ use App\Http\Controllers\MainController;
 
 Route::get('/', [MainController::class, 'index']);
 
-Route::get('/Portfólio', [MainController::class, 'portfolio']);
+Route::get('/Portfolio', [MainController::class, 'portfolio']);
 
-Route::get('/Sobre', [MainController::class, 'sobre']);
+Route::get('/About', [MainController::class, 'sobre']);
 
 Route::get('/{post}', function ($post) {
     return view('posts.'.$post);

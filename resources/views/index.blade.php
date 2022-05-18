@@ -31,8 +31,8 @@
         </button>
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" style="text-align: end">
           <div class="offcanvas-body" style="text-align: end">
-            <a href="./Sobre" style="font-size: 1.8em; font-weight: bolder;">Sobre </a><br/>
-            <a href="./Portfólio" style="font-size: 1.8em; font-weight: bolder;">Portfólio</a><br/>
+            <a href="./About" style="font-size: 1.8em; font-weight: bolder;">About </a><br/>
+            <a href="./Portfolio" style="font-size: 1.8em; font-weight: bolder;">Portfolio</a><br/>
             <a href="https://github.com/dgtyPedro" style="font-size: 1.8em; font-weight: bolder;">GitHub</a><br/>
           </div>
         </div>
@@ -46,22 +46,21 @@
         <a href="../"> <img src="{{asset('img/icon.jpg')}}" style="width: 3vw; border-radius: 100px; margin-right:1vw"/> Pedro Caires</a>
       </div>
       <div class="col navitems2">
-        <a href="./Sobre">Sobre</a>
-        <a href="./Portfólio">Portfólio</a>
+        <a href="./About">About</a>
+        <a href="./Portfolio">Portfolio</a>
         <a href="https://github.com/dgtyPedro">GitHub</a>
       </div>
     </div>
   </div>
-    <hr class="customhr"/>
 
-    <h1 class="mb-5 text-center">@yield('title')</h1>
+  <hr class="customhr"/>
 
-    <p class="text-left">@yield('content')</p>
+  <h1 class="mb-5 @yield('text-align')">@yield('title')</h1>
+
+  @yield('content')
 
   </div>
 </div>
-
-
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="scripts/script.js"></script>    

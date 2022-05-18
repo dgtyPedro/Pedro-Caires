@@ -1,13 +1,14 @@
 @extends('index')
 
 @section('title')
-O que eu não gosto tanto do PHP
+O que eu não gosto tanto do PHP [PT-BR]
 @endsection
 @section('content')
-O PHP assim como o Java é uma linguagem alvo de muitas previsões, 
+<p>O PHP assim como o Java é uma linguagem alvo de muitas previsões, 
 todo mês são textos novos marcando a morte do PHP por X motivo mas a verdade 
 é que essas postagens já estão ficando batidas e nem são mais 
-levadas a sério. Entretanto não devemos também ignorar alguns sintomas que o PHP possuí, aqui vou citar alguns pontos que percebo e me incomodam na linguagem.
+levadas a sério. Entretanto não devemos também ignorar alguns sintomas que o PHP possuí, 
+aqui vou citar alguns pontos que percebo e me incomodam na linguagem.</p>
 
 <h2>Server-Side</h2>
 <p>No PHP qualquer processamento e função deve ser 
