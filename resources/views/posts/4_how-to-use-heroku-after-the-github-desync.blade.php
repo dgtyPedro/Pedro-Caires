@@ -68,3 +68,7 @@ mcv7z6ALhZgx6uVDlCRg+RhX6De7zebcHfcUuDabHHLIJtefNpscDods1p+Se/lwpXBzWduIqvw+S/hC
 </code> and that's it!</p>
 <br/>
 @endsection
+
+@section('image')
+https://coffops.com/wp-content/uploads/2021/04/2elgd5zp07wkeilkna63.png
+@endsection
