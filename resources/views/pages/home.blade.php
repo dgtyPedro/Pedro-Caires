@@ -7,7 +7,7 @@ https://static.vecteezy.com/system/resources/previews/003/334/919/large_2x/deskt
 @endsection
 
 @section('title')
-Home
+Annotations
 @endsection
 @section('content')
 
