@@ -1,5 +1,4 @@
 @extends('index')
-<style>p{margin:0!important;}</style>
 @section('title')
 O meu próximo passo como desenvolvedor (e que muitos deveriam seguir) [PT-BR]
 @endsection
@@ -7,6 +6,7 @@ O meu próximo passo como desenvolvedor (e que muitos deveriam seguir) [PT-BR]
 <p>Eu pretendia começar a postar só em inglês nesse blog, mas por conta de ser uma postagem com cunho pessoal vou estar escrevendo 
     em português mesmo, espero que gostem do texto.
 </p>
+<style>p{margin:0!important;}</style>
 <br/>
 <h2>O Background</h2>
 <p>
