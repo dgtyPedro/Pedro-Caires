@@ -151,6 +151,18 @@ p{
 
 }
 
+.img{
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+}
+
+.img > img{
+    width: 50%;
+    min-width: 240px;
+    max-height: 600px;
+}
+
 hr{
     width: 100%;
 }

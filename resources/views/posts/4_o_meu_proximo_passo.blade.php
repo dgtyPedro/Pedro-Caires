@@ -15,7 +15,7 @@ O meu próximo passo como desenvolvedor [PT-BR]
     conquistei meu lugar na empresa. Quando entrei, ela havia acabado de ser criada e isso culminou em eu, um dev Júnior na época, receber 
     grandes responsabilidades/tarefas, quando essa situação ocorre ou o desenvolvedor não aguenta a pressão e acaba sendo desligado ou ele 
     segura o tranco e ganha posição de destaque nessa empresa, esse último caso foi oque aconteceu comigo, não acho que consegui 
-    por eu ser necessariamente um gênio e sim por ter uma facilidade em aprender coisas no "calor do momento", com isso 
+    por eu ser necessariamente um gênio e sim por ter uma facilidade em aprender coisas no "calor do momento". Com isso 
     recebi um certo prestígio dentro da empresa e passei a tocar projetos sozinhos, tenho a flexibilidade de fazer o que quiser 
     quando quiser e tenho o conforto de saber que tudo está dentro do meu controle, senti por um momento que o pior no processo de virar um desenvolvedor já tinha passado.
     Acredito que essa é a história de muitos desenvolvedores e uma situação que grande parte, assim como eu, passa por essa situação.
@@ -23,11 +23,11 @@ O meu próximo passo como desenvolvedor [PT-BR]
 <br/>
 <h2>A situação</h2>
 <p style="text-indent: 5vw;">Por mais que a programação seja uma área
-    altamente procurada nos dias atuais, cada vez fica mais difícil conseguir uma oportunidade de emprego no início, 
+    altamente procurada nos dias atuais fica cada vez mais difícil conseguir uma oportunidade de emprego no início, 
 a concorrência é extremamente alta para essas vagas de nível Júnior e já se foram os tempos onde um 
 certificado e vontade de aprender bastava, para realmente entrar no jogo se vão muitas horas de estudo e de projetos, eu passei por isso e sei que  
- quando de fato conseguimos a primeira oportunidade; o primeiro contrato; o primeiro dia de pagamento; nós desenvolvedores ficamos extasiados. Agora a parte 
-mais difícil que era conseguir uma oportunidade e se manter nela já foi, já se provamos e temos que nos preocupar somente 
+quando de fato conseguimos a primeira oportunidade; o primeiro contrato; o primeiro dia de pagamento; nós desenvolvedores ficamos extasiados. Agora a parte 
+mais difícil que era conseguir uma oportunidade e se manter nela já foi, já se provamos e temos que nos preocupar "somente" 
 em trabalhar e mostrar serviço, pelo menos é o que pensamos, e é aí que surge uma grande armadilha que muitos caem. A estagnação pelo conforto. 
 </p>
 <br/>
@@ -41,7 +41,7 @@ em trabalhar e mostrar serviço, pelo menos é o que pensamos, e é aí que surg
     "já tinha o suficiente"; alcancei o que entendi como estagnação pelo conforto.  
 </p>
 <p style="text-indent: 5vw;">
-    Não podemos nos confundir essa zona de conforto com estabilidade, acredito que todos almejam a estabilidade mas o que ocorreu comigo 
+    Não podemos confundir essa zona de conforto com estabilidade, acredito que todos almejam a estabilidade mas o que ocorreu comigo 
     foi uma grande decaída na minha curva de aprendizado, aprendi "tudo" que era requisitado no meu trabalho e fiquei por aí, eu ainda aprendia algo novo sempre que começava 
 um novo projeto, cada deploy me ensinava algo de diferente e todo projeto entregue me trazia experiência, porém nesses últimos mêses 
 senti que eu não estava realmente sendo desafiado, comecei a ficar insatisfeito com o meu código, comecei a dúvidar do meu próprio cargo e seu merecimento, 
@@ -65,4 +65,8 @@ ou partir para a próxima.
     Espero que tenham gostado e até a próxima!
 </p>
 <br/>
+@endsection
+
+@section('image')
+{{asset('img/posts/4/memelol.png')}}
 @endsection
