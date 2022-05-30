@@ -55,7 +55,7 @@
 
   <hr class="customhr"/>
 
-  <h1 class="mb-5 @yield('text-align')" style="word-break: break-word">@yield('title')</h1>
+  <h1 class="mb-5 @yield('text-align')" style="word-break: break-word; text-align center;">@yield('title')</h1>
 
   @yield('content')
 
