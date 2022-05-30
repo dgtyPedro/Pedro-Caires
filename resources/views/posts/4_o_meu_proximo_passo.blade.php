@@ -11,14 +11,14 @@ O meu próximo passo como desenvolvedor [PT-BR]
 <h2>O Background</h2>
 <p style="text-indent: 5vw;">
     Olá, sou o Pedro e hoje vou estar contando um pouco de um sentimento que vem me assombrando a um certo tempo.
-    Trabalho atualmente como Fullstack Web Developer em uma startup de soluções de TI, tive um crescimento notório nos meus primeiros mêses e rapidamente
+    Trabalho atualmente como Fullstack Web Developer em uma startup de soluções de TI, tive um crescimento notório nos meus primeiros meses e rapidamente
     conquistei meu lugar na empresa. Quando entrei, ela havia acabado de ser criada e isso culminou em eu, um dev Júnior na época, receber 
-    grandes responsabilidades/tarefas, quando essa situação ocorre ou o desenvolvedor não aguenta a pressão e acaba sendo desligado ou ele 
+    grandes responsabilidades/tarefas. Quando essa situação ocorre ou o desenvolvedor não aguenta a pressão e acaba sendo desligado ou ele 
     segura o tranco e ganha posição de destaque nessa empresa, esse último caso foi oque aconteceu comigo, não acho que consegui 
     por eu ser necessariamente um gênio e sim por ter uma facilidade em aprender coisas no "calor do momento". Com isso 
     recebi um certo prestígio dentro da empresa e passei a tocar projetos sozinhos, tenho a flexibilidade de fazer o que quiser 
     quando quiser e tenho o conforto de saber que tudo está dentro do meu controle, senti por um momento que o pior no processo de virar um desenvolvedor já tinha passado.
-    Acredito que essa é a história de muitos desenvolvedores e uma situação que grande parte, assim como eu, passa por essa situação.
+    Acredito que essa é a história de muitos desenvolvedores e que grande parte, assim como eu, passa por essa situação.
 </p>
 <br/>
 <h2>A situação</h2>
@@ -32,7 +32,7 @@ em trabalhar e mostrar serviço, pelo menos é o que pensamos, e é aí que surg
 </p>
 <br/>
 <h2>O problema</h2>
-<p style="text-indent: 5vw;">O conforto que senti por alguns mêses foi inacreditável, por ter aprendido muito rápido conseguia facilmente entregar tudo que era passado para mim, foram incontáveis 
+<p style="text-indent: 5vw;">O conforto que senti por alguns meses foi inacreditável, por ter aprendido muito rápido conseguia facilmente entregar tudo que era passado para mim, foram incontáveis 
     os dias que após 1:30h ~ 2h de trampo eu tinha terminado todas minhas tasks e podia desligar, o salário sempre caía no dia certo e por não ser responsável de ninguém 
     depois das contas pagas sobrava uma boa quantia para me divertir. Foi e é uma vida ótima, vocês nunca verão eu reclamar de nada nesse blog, eu sou uma pessoa privilegiada 
     por ter tudo e todos que tenho, é surreal ver tantas pessoas incríveis sendo desligadas de outras empresas enquanto por muitas vezes recebi por fazer um trabalho 
@@ -43,7 +43,7 @@ em trabalhar e mostrar serviço, pelo menos é o que pensamos, e é aí que surg
 <p style="text-indent: 5vw;">
     Não podemos confundir essa zona de conforto com estabilidade, acredito que todos almejam a estabilidade mas o que ocorreu comigo 
     foi uma grande decaída na minha curva de aprendizado, aprendi "tudo" que era requisitado no meu trabalho e fiquei por aí, eu ainda aprendia algo novo sempre que começava 
-um novo projeto, cada deploy me ensinava algo de diferente e todo projeto entregue me trazia experiência, porém nesses últimos mêses 
+um novo projeto, cada deploy me ensinava algo de diferente e todo projeto entregue me trazia experiência, porém nesses últimos meses 
 senti que eu não estava realmente sendo desafiado, comecei a ficar insatisfeito com o meu código, comecei a dúvidar do meu próprio cargo e seu merecimento, 
 a síndrome do impostor é algo que provavelmente todo desenvolvedor vai sentir, mesmo que em situações diferentes, e nesse momento temos a opção de deixar o conforto (e ansiedade em alguns casos) nos engolir 
 ou partir para a próxima.
