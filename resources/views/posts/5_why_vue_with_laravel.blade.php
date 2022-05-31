@@ -15,17 +15,20 @@ Why use Vue.js with Laravel instead of other Javascript Framework?
     <img src="https://miro.medium.com/max/400/1*ekaFqk38CV2GNTquivy7Dw.png"/>
 </div>
 
-<p>Besides the title this isn't going to be a Vue.js propaganda, to be honest I have way more experience with React than Vue but when 
-    looking to a new job I realize that Vue almost always comes together with Laravel on the requirements, because of that I went to see why 
-    it is so used with Laravel, I did a couple projects, some researchs and here it is what I discovered.
+<p>
+    Besides the title this isn't going to be a Vue.js propaganda, to be honest, 
+    I have way more experience with React than Vue but when looking for a new job I realize 
+    that Vue almost always comes together with Laravel on the requirements, because of that 
+    I went to see why it is so used with Laravel, I did a couple of projects, some researches and here it is what I discovered.
 </p>
 
 <h3>Vue it's easy </h3>
 
-<p>Okay, I know it is a huge blasphemy to say something in programming is easy, but I think that a PHP developer would adapt to Vue.js 
-    faster than to, for example, React. Vue looks way more with an HTML extension than React, I think because of Inertia the process of creating an 
-    Laravel application that uses Vue "feels" more official and because of that when we are 
-    talking about integrating on Laravel Vue it is just easier than other options.
+<p>
+    Okay, I know it is a huge blasphemy to say something in programming is easy, but I think that a PHP 
+    developer would adapt to Vue.js faster than, for example, React. Vue looks way more like an HTML extension 
+    than React, I think because of Inertia the process of creating a Laravel application that uses Vue "feels" 
+    more official and because of that when we are talking about integrating on Laravel Vue it is just easier than other options.
 </p>
 
 
@@ -34,18 +37,19 @@ Why use Vue.js with Laravel instead of other Javascript Framework?
     <img src="https://miro.medium.com/max/1000/1*WRzDZndJCduHwqgOpWmbhQ.png"/>
 </div>
 <p>
-    I compared above Vue with React saying that Vue it is easier to adapt than React, that is because of the fact that React "obliges"
-    the user to use JSX while in Vue you can use both JSX and plain HTML templates, I am not going to write a whole paragraph trashing 
-    on React because of that, when we are talking about extensions and libraries the React.js enviroment it's way mature and the JSX 
-    by itself is great too, it allows to create sofisticated UIs but I think that 
-    if you work mainly with PHP there will be no need to fully use the advantages React and its powerful packages.
+    I compared above Vue with React saying that Vue is easier to adapt than React, 
+    that is because of the fact that React "obliges" the user to use JSX while in Vue
+     you can use both JSX and plain HTML templates, I am not going to write a whole paragraph 
+     trashing on React because of that, when we are talking about extensions and libraries the React.js 
+     environment it's way mature and the JSX by itself is great too, it allows to create sophisticated UIs 
+     but I think that if you work mainly with PHP there will be no need to fully use the advantages React and its powerful packages.
 </p>
 
 <h3>How to get started?</h3>
-<p>I think the best way to learn how Vue works in a Laravel enviroment is a Jetstream + Inertia 
-    ToDo list. Jetstream is an starter kit for Laravel that you can learn more 
+<p>I think the best way to learn how Vue works in a Laravel environment is a Jetstream + Inertia 
+    ToDo list. Jetstream is a starter kit for Laravel that you can learn more 
     <a style="margin:0;" href="https://jetstream.laravel.com/2.x/introduction.html">HERE</a>, you can create a Laravel project with 
-    Jetstream using the Inertia stack, Inertia is the Jetstream template which uses Vue.js as its templating language, you can learn 
+    Jetstream using the Inertia stack, Inertia is the Jetstream template that uses Vue.js as its templating language, you can learn 
     more about <a style="margin:0;" href="https://jetstream.laravel.com/2.x/stacks/inertia.html">HERE</a>. It is a perfect way to 
     understand the flow of development of it, and if you like it you can always create that cool CRUD using plain Vue.js with a 
     Restful API.
