@@ -22,7 +22,7 @@ Why use Vue.js with Laravel instead of other Javascript Framework?
     I went to see why it is so used with Laravel, I did a couple of projects, some researches and here it is what I discovered.
 </p>
 
-<h3>Vue it's easy </h3>
+<h3>Vue is easy </h3>
 
 <p>
     Okay, I know it is a huge blasphemy to say something in programming is easy, but I think that a PHP 
