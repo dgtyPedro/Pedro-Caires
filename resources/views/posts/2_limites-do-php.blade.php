@@ -1,46 +1,51 @@
 @extends('index')
 
 @section('title')
-O que eu não gosto tanto do PHP [PT-BR]
+    O que eu não gosto tanto do PHP [PT-BR]
 @endsection
+
 @section('content')
-<p>O PHP assim como o Java é uma linguagem alvo de muitas previsões, 
-todo mês são textos novos marcando a morte do PHP por X motivo mas a verdade 
-é que essas postagens já estão ficando batidas e nem são mais 
-levadas a sério. Entretanto não devemos também ignorar alguns sintomas que o PHP possuí, 
-aqui vou citar alguns pontos que percebo e me incomodam na linguagem.</p>
+    <p>PHP as well as Java is a target language for many predictions,
+        every month new texts are marking the death of PHP for X reason
+        but the truth is that these posts are already getting beaten and
+        are not even taken seriously anymore. However, we must not ignore
+        some symptoms that PHP has, here I will mention some points that I understand and that bothers me in the language.</p>
 
-<h2>Server-Side</h2>
-<p>No PHP qualquer processamento e função deve ser 
-    realizada no carregamento da página, consultas em bancos de dados e requisições não podem ser feitas 
-"On-demand" assim como ocorre no Javascript, e para qualquer ação a página deve ser recarregada. 
-Felizmente o Javascript e o PHP andam juntos então o JS consegue dar uma boa cobertura nessa área e deixar os sistemas mais 
-fluídos depêndencia de JS para o PHP, antigamente essas tech se completavam, o Javascript cuidava do front-end 
-e o PHP do back-end, entretanto com o advento do Node hoje o Javascript consegue também segurar as pontas no Back-End e não depende mais do PHP 
-enquanto o PHP ainda precisa do Javascript para fazer sistemas fluídos sem a necessidade de reloads. Isso não é necessariamente algo ruim da linguagem já que como o próprio nome diz a linguagem é um "Hypertext Preprocessor", 
-    entretanto em 2022 vemos como essa característica pode atrapalhar na UX dos sistemas. 
-</p>
+    <h2>Server-Side</h2>
+    <p>In PHP any processing and function must be performed on page load, database queries and requests
+        cannot be made "On-demand" just like in Javascript, and for any action, the page must be reloaded.
+        Fortunately, Javascript and PHP go hand in hand, so JS manages to provide good coverage in this area
+        and make systems more fluid and dependence on JS to PHP, in the past these techs were completed,
+        Javascript took care of the front-end and PHP on the back-end, however with the advent of Node today,
+        Javascript can also handle the ends on the Back-End and no longer depends on PHP while PHP still needs
+        Javascript to make systems fluid without the need for reloads. This is not necessarily a bad thing about
+        the language since, as the name says, the language is a "Hypertext Preprocessor",  however, in 2022 we see
+        how this feature can disrupt the UX of systems.
+    </p>
 
-<h2>Uma linguagem muito bondosa</h2>
-<p>O PHP é uma linguagem que perdoa muito o desenvolvedor, muitas linhas de código que possuem problemas estruturais passam e o PHP 
-    dificilmente reclama disso, é claro que isso é muito mais um problema do desenvolvedor do que da própria linguagem mas essa característica 
-pode fazer erros pequenos se tornarem uma tortura na hora de fazer debugging, o Typescript é uma tech que na minha opinião acha o equilíbrio perfeito disso, 
-sempre apita problemas de tipagem e estrutura mas deixa o desenvolvimento acontecer.</p>
+    <h2>A very kind language</h2>
+    <p>PHP is a language that is very forgiving to the developer, many lines of code that have structural problems pass and PHP
+        hardly complains about it, it is clear that this is much more a problem of the developer than the language itself but this feature
+        can make small mistakes become torture when debugging, Typescript is a tech that in my opinion finds the perfect balance of this,
+        always beeps type and structure problems but lets the development happen.</p>
 
-<h2>Os Dev's</h2>
-<p>Esse provavelmente é o maior problema do PHP, eu como desenvolvedor PHP sei bem disso. A linguagem mima o PHP dev demais, tudo 
-    é muito fácil de se fazer e o problema está ai, tudo é relativamente fácil de fazer, o problema que a forma fácil nem sempre é a melhor 
-    e isso torna o PHP uma linguagem com problemas de segurança, a verdade é que não é ela que é indefesa contra SQL injection e outras coisas, e sim 
-    seus devs que optam por não adicionar. 
-</p>
+    <h2>The Dev's</h2>
+    <p>This is probably the biggest problem with PHP, as a PHP
+        developer I know this very well. The language spoils PHP
+        dev too much, everything it's very easy to do and the problem
+        is there, everything is relatively easy to do, the problem is
+        that the easy way is not always the best and this makes PHP a
+        language with security issues, the truth is that it is not defenseless
+        against SQL injection and other things, but your devs who choose not to add.
+    </p>
 
-<img title="como o PHP dev se vê" alt="como o PHP dev se vê" src="https://media.discordapp.net/attachments/845037319613972497/961040226975887400/unknown.png?width=1150&height=468" width="100%"/>
+    <img title="como o PHP dev se vê" alt="como o PHP dev se vê" src="https://media.discordapp.net/attachments/845037319613972497/961040226975887400/unknown.png?width=1150&height=468" width="100%"/>
 
-<br/>
-<br/>
-<br/>
+    <br/>
+    <br/>
+    <br/>
 @endsection
 
 @section('image')
-https://media-exp1.licdn.com/dms/image/sync/C4D27AQF1SVAMqBfC7Q/articleshare-shrink_800/0/1652301258413?e=1652389200&v=beta&t=wdNlK2uRW0jcz6d0ZcKIYjaBC8byhJ_MJFpcZQR-kDw
+    https://media-exp1.licdn.com/dms/image/sync/C4D27AQF1SVAMqBfC7Q/articleshare-shrink_800/0/1652301258413?e=1652389200&v=beta&t=wdNlK2uRW0jcz6d0ZcKIYjaBC8byhJ_MJFpcZQR-kDw
 @endsection
