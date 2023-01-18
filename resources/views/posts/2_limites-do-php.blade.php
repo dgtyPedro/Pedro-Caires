@@ -1,7 +1,7 @@
 @extends('index')
 
 @section('title')
-    O que eu não gosto tanto do PHP [PT-BR]
+    What I don't like about PHP
 @endsection
 
 @section('content')
