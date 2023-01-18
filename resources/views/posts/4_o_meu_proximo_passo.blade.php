@@ -3,8 +3,7 @@
     My next step as a developer
 @endsection
 @section('content')
-    <style>p{margin:0!important;}</style>
-<br/>
+
 <h2>The Background</h2>
 <p style="text-indent: 5vw;">
     Hello, I'm Pedro and today I'm going to be telling you a little about a feeling that has been haunting me for a while.
@@ -17,6 +16,7 @@
     whenever I want and I have the comfort of knowing that everything is within my control, I felt for a moment that the worst in the process of becoming a developer was over.
     I believe that this is the story of many developers and that most of them, like me, go through this situation.
 </p>
+<style>p{margin:0!important;}</style>
 <br/>
 <h2>The situation</h2>
 <p style="text-indent: 5vw;">As much as programming is an area
