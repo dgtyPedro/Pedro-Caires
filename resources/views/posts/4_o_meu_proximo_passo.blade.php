@@ -3,8 +3,6 @@
     My next step as a developer
 @endsection
 @section('content')
-
-<h2>The Background</h2>
 <p style="text-indent: 5vw;">
     Hello, I'm Pedro and today I'm going to be telling you a little about a feeling that has been haunting me for a while.
     I currently work as a Fullstack Web Developer in an IT solutions startup, I had a noticeable growth in my first months and quickly
