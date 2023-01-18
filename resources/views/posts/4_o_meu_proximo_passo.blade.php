@@ -3,8 +3,7 @@
     My next step as a developer
 @endsection
 @section('content')
-<p style="text-indent: 5vw;">
-    Hello, I'm Pedro and today I'm going to be telling you a little about a feeling that has been haunting me for a while.
+<p>Hello, I'm Pedro and today I'm going to be telling you a little about a feeling that has been haunting me for a while.
     I currently work as a Fullstack Web Developer in an IT solutions startup, I had a noticeable growth in my first months and quickly
     I earned my place in the company. When I joined, it had just been created and that culminated in me, a Junior dev at the time, receiving
     big responsibilities/tasks. When this situation occurs either the developer can't handle the pressure and ends up being shut down or he
@@ -14,7 +13,7 @@
     whenever I want and I have the comfort of knowing that everything is within my control, I felt for a moment that the worst in the process of becoming a developer was over.
     I believe that this is the story of many developers and that most of them, like me, go through this situation.
 </p>
-<style>p{margin:0!important;}</style>
+<style>p{margin:0!important; text-indent: 5vw;}</style>
 <br/>
 <h2>The situation</h2>
 <p style="text-indent: 5vw;">As much as programming is an area
