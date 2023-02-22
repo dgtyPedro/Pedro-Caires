@@ -9,25 +9,19 @@ About
 @endsection
 @section('content')
 
-    <div style="margin-inline: 5vw">      
+    <div style="margin-inline: 5vw">
     <p class="mb-3" style="text-indent: 5vw;">
-      Hi! My name is Pedro Gabriel Caires, I'm 18 years old brazilian currently working as a 
-      Full Stack Web Developer at I'M Labs Tecnologia.</p>
-      <div class="mb-3" style="display: flex; justify-content:center">
-        <img title="my pretty face" style="margin:auto; width:30vw" src="{{asset('img/me.jpg')}}"/>
-      </div>
+      Hi! My name is Pedro Gabriel Caires, I'm 19 years old brazilian currently working as a
+      Full Stack Web Developer at Simbiose Social.</p>
       <p class="mb-3" style="text-indent: 5vw;">
-      I started my journey in the programming world at 15 when 
-      I had my first contact with Portugol, I was enchanted by the idea of 
-      ​​creating my own line of code and after that I went to Python. In 
-      these 3 years I had contact with numerous languages, from Java to Google Apps Script 
-      (a Google proprietary scripting platform) but I fell in love with PHP and it became 
-      my main stack. Despite this, I believe that the main characteristic that defines a good developer 
-      is to be a great problem solver, and for that, we can't settle for a technology, only soon I try to 
-      learn new ways and visions of how to create solutions, after all, I'm from the: "I may not know how 
-      to do it, but I'm sure I know how to find out and do it".</p>
-      <p class="mb-3" style="text-indent: 5vw;">I am an extremely proactive person and I know that the difference starts with each of us. 
-      In addition to programming, I really like music, music production, games and art in general.</p>
+          Professional with more than 5 years in the area, graduated in Technical Teaching
+          of Technology by ENIAC and studying Information Systems by the same I have numerous active projects in languages such as PHP, Python, Javascript and React Native. I participated in Open and Closed Source applications, worked in Startups and provided Freelance, in all opportunities I had an active voice, participating from product design to system architecture.
+      </p>
+      <p class="mb-3" style="text-indent: 5vw;">Along with professional experiences, I also maintained activity as an independent developer, creating apps from 0 such as "dumpi-fy" (application for managing playlists using the Spotify API) and "Measure & Markings" (application for measuring containers). All systems created and developed 100% by me.
+      </p>
+        <p class="mb-3" style="text-indent: 5vw;">
+
+            I'm an extremely proactive and humorous person who likes to know (at least a little bit) about all the steps and nuances of the product I'm developing.        </p>
       <br/>
     </div>
 

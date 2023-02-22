@@ -11,12 +11,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/jpg" href="{{secure_asset('img/icon.jpg')}}"/>
-    
+
     <meta property="og:image" content='@yield('image')'/>
 
     <meta property="og:type" content='website'/>
     <meta property="og:title" content="@yield('title')"/>
-    
+
     <title>Pedro Caires</title>
   </head>
   <body>
@@ -32,7 +32,8 @@
         <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel" style="text-align: end">
           <div class="offcanvas-body" style="text-align: end">
             <a href="./About" style="font-size: 1.8em; font-weight: bolder;">About </a><br/>
-            <a href="./Portfolio" style="font-size: 1.8em; font-weight: bolder;">Portfolio</a><br/>
+              <a href="./CV" style="font-size: 1.8em; font-weight: bolder;">Curriculum </a><br/>
+{{--            <a href="./Portfolio" style="font-size: 1.8em; font-weight: bolder;">Portfolio</a><br/>--}}
             <a href="https://github.com/dgtyPedro" style="font-size: 1.8em; font-weight: bolder;">GitHub</a><br/>
           </div>
         </div>
@@ -47,7 +48,7 @@
       </div>
       <div class="col navitems2">
         <a href="./About">About</a>
-        <a href="./Portfolio">Portfolio</a>
+          <a href="./CV">Curriculum Vitae</a>
         <a href="https://github.com/dgtyPedro">GitHub</a>
       </div>
     </div>
@@ -63,8 +64,8 @@
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="scripts/script.js"></script>    
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>    
+<script src="scripts/script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 <script>
   $('.title').quickfit();
 </script>
