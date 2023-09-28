@@ -17,7 +17,7 @@ use App\Http\Controllers\MainController;
 Route::get('/', [MainController::class, 'index']);
 
 Route::get('/CV', function () {
-    return response()->file('./resume/pedrocaires.pdf');
+    return response()->file('./resume/curriculumvitae.pdf');
 });
 
 Route::get('/Portfolio', [MainController::class, 'portfolio']);
