@@ -22,13 +22,13 @@ class MainController extends Controller
 
         foreach($files as $f){
             $content = file_get_contents(resource_path($f));
-            $content = str_replace("@extends('index')", '', $content);    
-            $content = str_replace("@section('content')", '', $content);  
-            $content = str_replace("@endsection", '', $content);  
-            $content = str_replace("@section('title')", '', $content); 
-            $content = explode(PHP_EOL, $content); 
+            $content = str_replace("@extends('index')", '', $content);
+            $content = str_replace("@section('content')", '', $content);
+            $content = str_replace("@endsection", '', $content);
+            $content = str_replace("@section('title')", '', $content);
+            $content = explode(PHP_EOL, $content);
             array_push($contents, array_values(array_filter($content)));
-            
+
             $f = str_replace('.blade.php', '', $f);
             $f = str_replace('../resources/views/posts/', '', $f);
             array_push($posts, $f);
