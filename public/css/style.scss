@@ -2,7 +2,7 @@ $background: #212121;
 $black : #141414;
 $text:#F5F5F5 ;
 $primary: #757575;
-$secondary: #616161; 
+$secondary: #616161;
 $third: #424242;
 $hover: #EF6A32;
 
@@ -17,14 +17,14 @@ body, html{
 }
 
 .container {
-    -webkit-box-shadow: 0px 0px 50px 0px $black; 
+    -webkit-box-shadow: 0px 0px 50px 0px $black;
     box-shadow: 0px 0px 50px 0px $black;
     padding-top: 1vh;
     padding-left: 5vw;
     padding-right: 5vw;
     margin: auto;
     background-color: $background;
-    min-height: 100%; 
+    min-height: 100%;
 }
 
 @media (max-width: 1000px)
@@ -43,18 +43,18 @@ body, html{
     height: 100%;
     overflow-x: none;
 }
-   
+
 }
 
 @media (min-width: 1000px)
 {
-  
+
     .navmobile
     {
     display: none;
     }
 
-   
+
 }
 
 .offcanvas{
@@ -92,7 +92,7 @@ text-align: end;
     // border: $primary 2px solid;
     margin: 1vw;
     height: max-content;
-    
+
 }
 
 @media (max-width: 1000px)
@@ -147,7 +147,7 @@ h4 {
 p{
     font-size: 1.25em;
     text-align: justify;
-    margin-bottom: 8vh;
+    margin-bottom: 4vh;
     text-indent: 5vw;
 }
 
