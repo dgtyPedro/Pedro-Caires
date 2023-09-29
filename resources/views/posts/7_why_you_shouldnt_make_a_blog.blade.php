@@ -4,9 +4,7 @@
     Why you shoudn't make a blog.
 @endsection
 
-@section('content')
-    <p>
-        For a long, long time creating a blog while being a developer was a big deal, as programmers we always want to
+@section('content')<p>For a long, long time creating a blog while being a developer was a big deal, as programmers we always want to
         keep reading, learning, and writing about what we learned. Besides being a great side project to keep, a great
         way to indulge yourself in writing more is developing your website, writing your articles, and publishing them
         on it, but as time passed the way media and knowledge were shared changed and nowadays we have better ways of
